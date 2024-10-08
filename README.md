@@ -1,4 +1,1 @@
-
-# mean temperature analysis 
-This project is going to be done using Tableau, to know variations between this and Power BI. 
-This shows the versatility and dynamic use cases of both applications in the field of data analysis
+Stocks represent ownership in a company, and buying them makes you a shareholder. Their value fluctuates based on the company's performance and market conditions. Investors buy stocks hoping for capital gains or dividends over time. 
